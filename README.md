@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AhmadKelo
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Game Development and Git
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me don't know
+- 👀 I’m interested in game development with Unity
+- 🌱 I’m currently learning game development
+- 💞️ I’m looking for support to improve BanderitaX game
+- 📫 You can reach me from this email: ahmetahmetgalo@gmail.com
 
 <!---
 AhmadKelo/AhmadKelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
